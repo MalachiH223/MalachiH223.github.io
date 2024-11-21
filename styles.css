@@ -53,8 +53,8 @@ a { /* change the appearance of ALL links */
         }
     
     .about img {
-        width: 300px;
-        height: 200px;
+        width: 250px;
+        height: 350px;
         border-radius: 25%;
         border: 2px solid rgb(126, 14, 201);
         }
